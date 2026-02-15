@@ -1,5 +1,7 @@
 package ast
 
+/*Estrutura final do programa - em uma árvore sintática.*/
+
 import "github.com/PyMarcus/lioninterpreter/token"
 
 // abstract syntax tree

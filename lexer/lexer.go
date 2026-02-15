@@ -4,6 +4,8 @@ import (
 	"github.com/PyMarcus/lioninterpreter/token"
 )
 
+/*Tokeniza as expressões para posterior analise pelo lexer - quebra o código em tokens*/
+
 type Lexer struct {
 	input        string
 	position     int
